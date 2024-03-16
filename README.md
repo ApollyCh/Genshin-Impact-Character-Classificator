@@ -47,8 +47,8 @@ Learning rate: 0.001
 Batch size: 15
 
 <div style="display: flex;">
-  <img src="./images/simple_model_loss.png" alt="Simple Model Loss" width="50%">
-  <img src="./images/vgg_model_loss.png" alt="VGG Model Loss" width="50%">
+  <img src="./images/simple_model_loss.png" alt="Simple Model Loss" width="40%">
+  <img src="./images/vgg_model_loss.png" alt="VGG Model Loss" width="40%">
 </div>
 
 
